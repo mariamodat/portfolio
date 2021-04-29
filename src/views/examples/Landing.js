@@ -81,13 +81,14 @@ class Landing extends React.Component {
                   <Row>
                     <Col lg="6">
                       <h1 className="display-3 text-white">
-                        A beautiful Design System{" "}
-                        <span>completed with examples</span>
+                        Technology Never Stops!{" "}
+                        <span>interested? well,  </span>
                       </h1>
                       <p className="lead text-white">
-                        The design system comes with four pre-built pages to
-                        help you get started faster. You can change the text and
-                        images and you're good to go.
+                        In the future, AI will become a part of our lives. Now all the tasks we do manually will
+                        be automated due to AE technology.
+                        Nobody can predict where the technology will take us in the coming years. So what achievements
+                        technology will do ,what next You cen Never guess .
                       </p>
                       <div className="btn-wrapper">
                         <Button
