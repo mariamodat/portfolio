@@ -38,7 +38,7 @@ import {
   Col,
   UncontrolledTooltip
 } from "reactstrap";
-import reactWhite from "assets/img/brand/argon-react-white.png";
+import reactWhite from "assets/img/brand/mee.jpg";
 import argonReact from "assets/img/brand/argon-react.png";
 
 class DemoNavbar extends React.Component {
@@ -180,7 +180,7 @@ class DemoNavbar extends React.Component {
                     </DropdownToggle>
                     <DropdownMenu>
                       <DropdownItem to="/landing-page" tag={Link}>
-                        Landing
+                       Portfilio 
                       </DropdownItem>
                       <DropdownItem to="/profile-page" tag={Link}>
                         Profile
