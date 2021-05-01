@@ -143,13 +143,13 @@ class Landing extends React.Component {
                 <Col lg="12">
                   <Row className="row-grid">
                     <Col lg="4">
-                      <Card className="card-lift--hover shadow border-0">
+                      <Card style={{backgroundColor:'#b5838dbe' , color:'black'}} className="card-lift--hover shadow border-0">
                         <CardBody  className="py-5">
                           <div className="icon icon-shape icon-shape-primary rounded-circle mb-4">
                             <i className="ni ni-check-bold" />
                           </div>
-                          <h6 className="text-primary text-uppercase">
-                          About me 
+                          <h6  className="text-primary text-uppercase">
+                          About me
                           </h6>
                           <p className="description mt-3">
                           Fresh graduate in civil engineering, trainee site engineer and shop drawing with AUDEX company,UAE.
@@ -182,11 +182,9 @@ class Landing extends React.Component {
                     </Col>
                    
                     <Col lg="4">
-                      <Card className="card-lift--hover shadow border-0">
+                      <Card style={{backgroundColor:'#b5838dbe' , color:'black'}} className="card-lift--hover shadow border-0">
                         <CardBody className="py-5">
-                          <div className="icon icon-shape icon-shape-warning rounded-circle mb-4">
-                            <i className="ni ni-planet" />
-                          </div>
+                         
                           <h6 className="text-warning text-uppercase">
                             Wardrobe online shopping 
                           </h6>
@@ -217,11 +215,11 @@ class Landing extends React.Component {
                       </Card>
                     </Col>
                     <Col lg="4">
-                      <Card className="card-lift--hover shadow border-0">
+                      <Card style={{backgroundColor:'#b5838dbe' , color:'black'}} className="card-lift--hover shadow border-0">
                         <CardBody className="py-5">
-                          <div className="icon icon-shape icon-shape-success rounded-circle mb-4">
+                          {/* <div className="icon icon-shape icon-shape-success rounded-circle mb-4">
                             <i className="ni ni-istanbul" />
-                          </div>
+                          </div> */}
                           <h6 className="text-success text-uppercase">
                            Cookies shop
                           </h6>

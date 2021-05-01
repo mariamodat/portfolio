@@ -52,7 +52,7 @@ class Download extends React.Component {
                   <h4 className="display-4 mb-5 mt-5">
                     Available on these technologies
                   </h4>
-                  <Row className="justify-content-center">
+                  {/* <Row className="justify-content-center">
                     <Col lg="2" xs="4">
                       <a
                         href="https://www.creative-tim.com/product/argon-design-system?ref=adsr-landing-page"
@@ -151,7 +151,7 @@ class Download extends React.Component {
                         manipulation
                       </UncontrolledTooltip>
                     </Col>
-                  </Row>
+                  </Row> */}
                 </div>
               </Col>
             </Row>
